@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "705433366225",
+    "firebase_url": "https://cannago-23721-default-rtdb.firebaseio.com",
+    "project_id": "cannago-23721",
+    "storage_bucket": "cannago-23721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705433366225:android:14f0658c7c00d97660dff0",
+        "android_client_info": {
+          "package_name": "com.cannago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705433366225-5j63dooe4s5nqao42tumvn9eafg8d2fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP0TVhWi6dxsxjdZH0EiCFcdj8hgVSyrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705433366225-5j63dooe4s5nqao42tumvn9eafg8d2fh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "705433366225-6d5bco2cco16s3n2j2cpc1vfhe28b7nd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.fstar.CannaGo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
